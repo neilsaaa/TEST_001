@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "17548149571",
+    "firebase_url": "https://quiz-3eea6-default-rtdb.firebaseio.com",
+    "project_id": "quiz-3eea6",
+    "storage_bucket": "quiz-3eea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17548149571:android:2786f6da8a83df4486e5f6",
+        "android_client_info": {
+          "package_name": "com.example.finalexam_quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp3S5Xz_7mLRA224uW_38JGCslx2hc-N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
